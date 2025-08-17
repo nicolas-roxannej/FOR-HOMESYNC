@@ -1,0 +1,50 @@
+{
+  "rules": {
+    ".read": "auth != null",
+    ".write": "auth != null",
+    "relay1": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "relay2": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "relay3": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "relay4": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "relay5": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "relay6": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "relay7": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "relay8": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "relay9": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "relay10": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "electricity_usage": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    }
+  }
+}

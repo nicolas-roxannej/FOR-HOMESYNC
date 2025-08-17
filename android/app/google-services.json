@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "258697759332",
+    "firebase_url": "https://homeautomation-b6d6d-default-rtdb.firebaseio.com",
+    "project_id": "homeautomation-b6d6d",
+    "storage_bucket": "homeautomation-b6d6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258697759332:android:9c63bb5a2b0772fe3b2d71",
+        "android_client_info": {
+          "package_name": "com.example.homesync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXkXcdits7ciCUp46TqCxxJDsg0GXfz8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

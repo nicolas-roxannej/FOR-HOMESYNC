@@ -1,0 +1,50 @@
+Data required for Firebase:
+
+Individual Device Data:
+- id: String
+- name: String
+- type: String
+- kwh: double
+- room: String
+- icon: int
+- startTime: String
+- endTime: String
+- days: List<String>
+- relay: String
+
+Device State Data:
+- relay1: int
+- relay2: int
+- relay3: int
+- relay4: int
+- relay5: int
+- relay6: int
+- relay7: int
+- relay8: int
+- relay9: int
+- relay10: int
+
+Notification Settings Data:
+- notifications: Map<String, bool>
+
+User Profile Data (Inferred):
+- User ID: String
+- Email: String
+- Username: String
+- House Address: String
+- Profile Picture URL: String
+
+Notification Data:
+- id: String
+- title: String
+- description: String
+- time: String
+
+Room Data:
+- Room Name: String
+- Room Icon: int
+
+Electricity Usage Data (Inferred):
+- Usage Value: double or int
+- Timestamp or Date: String or timestamp
+- Associated Device or Room: String
