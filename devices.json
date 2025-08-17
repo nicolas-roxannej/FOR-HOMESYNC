@@ -1,0 +1,109 @@
+{
+  "Bedroom": [
+      {
+        "applianceName": "Air-con",
+        "roomName": "Bedroom",
+        "deviceType": "Socket 2",
+        "relay": "relay5",
+        "icon": "0xe333",
+        "kwh": 1.5,
+        "startTime": "08:00",
+        "endTime": "20:00",
+        "days": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+      },
+      {
+        "applianceName": "Light 3",
+        "roomName": "Bedroom",
+        "deviceType": "Light",
+        "relay": "relay8",
+        "icon": "0xe33a",
+        "kwh": 0.1,
+        "startTime": "18:00",
+        "endTime": "06:00",
+        "days": ["Sat", "Sun"]
+      }
+    ],
+    "Kitchen Area": [
+      {
+        "applianceName": "Oven",
+        "roomName": "Kitchen Area",
+        "deviceType": "Socket 1",
+        "relay": "relay1",
+        "icon": "0xe333",
+        "kwh": 2.0,
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "days": ["Sat", "Sun"]
+      },
+      {
+        "applianceName": "Light 1",
+        "roomName": "Kitchen Area",
+        "deviceType": "Light",
+        "relay": "relay9",
+        "icon": "0xe33a",
+        "kwh": 0.2,
+        "startTime": "06:00",
+        "endTime": "22:00",
+        "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+      "applianceName": "Rice-cooker",
+      "roomName": "Kitchen Area",
+      "deviceType": "Socket 5",
+      "relay": "relay2",
+      "icon": "0xe333",
+      "kwh": 0.8,
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "days": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+      }
+    ],
+    "Living Area": [
+      {
+        "applianceName": "Light 2",
+        "roomName": "Living Area",
+        "deviceType": "Light",
+        "relay": "relay7",
+        "icon": "0xe33a",
+        "kwh": 0.3,
+        "startTime": "18:00",
+        "endTime": "23:00",
+        "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "applianceName": "Television",
+        "roomName": "Living Area",
+        "deviceType": "Socket 3",
+        "relay": "relay4",
+        "icon": "0xe333",
+        "kwh": 0.7,
+        "startTime": "19:00",
+        "endTime": "22:00",
+        "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      },
+      {
+        "applianceName": "Fan",
+        "roomName": "Living Area",
+        "deviceType": "Socket 6",
+        "relay": "relay4",
+        "icon": "0xe333",
+        "kwh": 0.05,
+        "startTime": "20:00",
+        "endTime": "06:00",
+        "days": ["Sat", "Sun"]
+      }
+    ],
+    "Dining Area": [
+      {
+        "applianceName": "Refrigerator",
+        "roomName": "Dining Area",
+        "deviceType": "Socket 4",
+        "relay": "relay6",
+        "icon": "0xe333",
+        "kwh": 0.4,
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+      }
+    ]
+  }

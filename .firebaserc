@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "homeautomation-b6d6d",
+    "staging": "homeautomation-b6d6d",
+    "home":    "homeautomation-b6d6d"
+  },
+  "targets": {},
+  "etags": {}
+}
